@@ -1,90 +1,66 @@
 ---
-name: Haha Ha
+name: Saidnassimov Darkhan
 header:
-  - text: <span class="iconify" data-icon="tabler:phone"></span> (+1) 123-456-7890
-  - text: <span class="iconify" data-icon="tabler:mail"></span> renovamenzxh@gmail.com
-    link: mailto:renovamenzxh@gmail.com
-  - text: <span class="iconify" data-icon="tabler:brand-github"></span> Renovamen
-    link: https://github.com/Renovamen
-  - text: <span class="iconify" data-icon="tabler:brand-linkedin"></span> xiaohan-zou
-    link: https://www.linkedin.com/in/xiaohan-zou/
-  - text: <span class="iconify" data-icon="charm:person"></span> zxh.io
-    link: https://zxh.io
-  - text: <span class="iconify" data-icon="ic:outline-location-on"></span> 1234 Abc Street, Boston, MA 02215
+  - text: <span class="iconify" data-icon="tabler:phone"></span> (+358) 46 550 32 34
+  - text: <span class="iconify" data-icon="tabler:mail"></span> darkhan.saidnassimov@gmail.com
+    link: mailto:darkhan.saidnassimov@gmail.com
+  - text: <span class="iconify" data-icon="tabler:brand-github"></span> darkhan-s
+    link: https://github.com/darkhan-s
     newLine: true
+  - text: <span class="iconify" data-icon="tabler:brand-linkedin"></span> dsaidnassimov
+    link: https://www.linkedin.com/in/dsaidnassimov/
+  - text: <span class="iconify" data-icon="ic:outline-location-on"></span> 00370 Helsinki, Finland
 ---
 
+
+
+## Work Experience
+
+**Jan 2022 - Present**
+  ~ **Thesis worker**, Metso:Outotec, Espoo, Finland
+- Succesfully developed an algorithm to recognize real-life equipment items using rendered images of the corresponding 3D models
+- Area of expertise: deep learning, cross-domain object detection, transfer learning, continual learning
+
+
+**Oct 2021 - Jan 2022**
+  ~ **Software Developer**, Redrakon, Espoo, Finland
+- Independently maintained a computer vision application in a startup environment
+- An edge app was used to automatically collect measurable quantities of the target audience for the media industry
+
+
+**July 2018 - July 2021**
+  ~ **Jr. Software Engineer**, Raute Oyj, Lahti, Finland
+- Completed a thesis project to standardize the industrial data collection system
+- Installed data collection systems on 10+ plywood mills and completed multiple installation visits to customer plants in Finland and abroad
+- Completed XY-charger start-ups and Gocator laser calibrations
+- Independently deveped and maintained a user interface for a sheet feeder using C#
+
 ## Education
+**Sep 2020 - July 2022**
+  ~ **Aalto University**, Espoo, Finland
+  ~ - M.Sc. in Automation and Electrical Engineering
+  ~ - Major in Control, Robotics and Autonomous Systems
+  ~ - Thesis topic: Equipment identification through image recognition for Metso:Outotec (2022) 
 
-Boston, MA
-  ~ **University of Charles River**
+**Sep 2015 - Feb 2019**
+  ~ **HAMK University of Applied Sciences**, Valkeakoski, Finland
 
-09/2021 - 01/2023
-  ~ M.S. in Computer Science
-
-Shanghai, China
-  ~ **Huangdu Institute of Technology**
-
-09/2016 - 07/2020
-  ~ B.Eng. in Software Engineering 
-
-
-## Publications and Submitted Manuscripts
-
-- **Haha Ha**, and San Zhang. "Eating is All You Need", **submitted to NeurIPS 2099**.
-- **Haha Ha**, San Zhang, Si Li, and Wu Wang. "You Only Cook Once: Unified, Real-Time Mapo Tofu Recipe", **submitted to CVPR 2099**.
-- **Haha Ha**, San Zhang, Si Li, and Wu Wang. "Cool Dragons are Mapo Tofu Eaters", **NeurIPS 2077**. (**Best Paper Honorable Mention**) [[Paper]](https://www.google.com/)
-- **Haha Ha**. "Rethinking Mapo Tofu Eating", **ICCV 2077**. [[Paper]](https://www.google.com/)
-
-
-## Research Experience
-
-07/2021 - Present
-  ~ **Machine Learning Engineer Intern**, Slow Feet Technology, Beijing
-
-- Devised a new food-agnostic formulation for fine-grained cross-ingredient meal cooking and subsumed the recent popular works into the proposed scheme
-- Proposed a cream of mushroom soup recipe which is competitive when compared with the SOTA recipes with complex steps by only altering the way of cutting mushroom, **submitted to NeurIPS 2099**
-- Developed a pan for meal cooking which is benefiting the group members' research work
-
-
-08/2020 - Present
-  ~ **Reseach Intern**, Paddling University, Beijing
-
-- Designed an efficient method for mapo tofu quality estimation via thermometer
-- Proposed a fast stir frying algorithm for tofu cooking problems, which specifies the amount of the hot sauce instead of using terms like "as much as you can", **submitted to CVPR 2099**
-- Outperformed SOTA methods while cooking much more efficient in experiments on popular tofu
-
-
-03/2020 - 06/2020
-  ~ **Research Assistant**, Huangdu Institute of Technology, Shanghai
-
-- Proposed a novel framework consisting of a spoon and a pair of chopsticks for eating mapo toufu, **published in NeurIPS 2077**
-- Designed a tofu filtering strategy inspired by beans grinding method for building a dataset for this new task
-- Designed two new evaluation criteria to assess the novelty and diversity of the eating plans
-- Outperformed baselines and existed methods substantially in terms of diversity, novelty and coherence
-
-
-07/2018 - 08/2018
-  ~ **Reseach Intern**, Paddling University, Beijing
-
-- Designed two sandwiches consisting of breads and meat of two traditional bacon cheese burgers to make use of unused ingredients
-- Utilized the structure duality to boost the cooking speed of two dual tasks based on shared ingredients
-- Outperformed strong baselines on QWE'15 and ASDF'14 dataset
-
-
-## Awards and Honors
-
-2018
-  ~ **Gold**, International Collegiate Catching Fish Contest (ICCFC)
-
-2017, 2018
-  ~ **First Prize**, China National Scholarship for Outstanding Dragons
+  ~ - B.Eng. in Electrical and Automation Engineering
+  ~ - Exchange studies in the University of Dundee, Scotland, UK (2018)
+  ~ - Thesis topic: Standardization of MillSIGHTS data collection and reporting system for Raute Oyj (2019)
 
 
 ## Skills
 
-**Programming Languages:** <span class="iconify" data-icon="vscode-icons:file-type-python"></span> Python, <span class="iconify" data-icon="vscode-icons:file-type-js-official"></span> JavaScript / <span class="iconify" data-icon="vscode-icons:file-type-typescript-official"></span> TypeScript, <span class="iconify" data-icon="vscode-icons:file-type-html"></span> HTML / <span class="iconify" data-icon="vscode-icons:file-type-css"></span> CSS, <span class="iconify" data-icon="logos:java" data-inline="false"></span> Java
+**Programming Languages:** <span class="iconify" data-icon="vscode-icons:file-type-python"></span>Python, <span class="iconify" data-icon="vscode-icons:file-type-csproj"></span>C#.NET, <span class="iconify" data-icon="vscode-icons:file-type-sql"></span>SQL, <span class="iconify" data-icon="vscode-icons:file-type-html"></span>HTML, <span class="iconify" data-icon="vscode-icons:file-type-css"></span>CSS, <span class="iconify" data-icon="vscode-icons:file-type-matlab"></span>Matlab
 
-**Tools and Frameworks:** Git, PyTorch, Keras, scikit-learn, Linux, Vue, React, Django, $\LaTeX$
+**Tools and Frameworks:** <span class="iconify" data-icon="vscode-icons:file-type-git"></span>Git, Linux, <span class="iconify" data-icon="vscode-icons:file-type-nginx"></span>Nginx, Step7, TIA, PyTorch, scikit-learn, OpenCV, Detectron2, YOLOv3, Flask, Rest API, <span class="iconify" data-icon="vscode-icons:file-type-docker2"></span>Docker, <span class="iconify" data-icon="vscode-icons:file-type-arduino"></span>Arduino, $\LaTeX$, <span class="iconify" data-icon="vscode-icons:file-type-word"></span>MS Office,
 
-**Languages:** Chinese (native), English (proficient)
+**Languages:** Kazakh (native), Russian (native), English (fluent, IELTS 7.0), Finnish (A3)
+
+## Other competences
+
+Valid Finnish occupational safety card, Driving license (B), Covid-vaccinated (Pfizer 3/3)
+
+## References
+References are available upon request
